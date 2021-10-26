@@ -1,0 +1,6 @@
+div {
+  background-image: url(bg-airplane.jpg);
+  background-repeat: no-repeat;
+  background-size: contain; /* 縦横比を保持して画像が全て表示する設定 */
+  height: 100vh;
+}

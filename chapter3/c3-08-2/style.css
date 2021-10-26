@@ -1,0 +1,4 @@
+body {
+  background-image: url(bg.png); /*imagesフォルダにあるbg.pngの画像を背景に配置する指定*/
+  background-repeat: repeat-x; /*横方向に繰り返して表示の指定 */
+}
